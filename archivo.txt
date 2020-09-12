@@ -1,4 +1,7 @@
-modificando el archivo dos
+modificando el archivo dos desde git 
+
+
+
 
 
 
